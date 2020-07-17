@@ -1,6 +1,14 @@
-## Happy Birthday!!!
+<h1 align="center">Happy Birthday!!! 🔥</h1> 
 
-### Wish someone special happy birthday in a special way.
+<p align="center">
+<a href="https://sawankumar.gitlab.io/"><img alt="author" src="https://img.shields.io/badge/author-Sawan%20Kumar-red"/></a>
+<a href="https://github.com/ellerbrock/open-source-badges/"><img alt="author" src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103"/></a>
+</p>
+
+<hr>
+
+
+> ## Wish someone special happy birthday in a special way.
 
 #### [See it Live](https://sawankumar.github.io/Happy-Birthday/)
 
@@ -23,3 +31,7 @@ I've used plain HTML, CSS and JavaScript with [GSAP](https://greensock.com/gsap)
 If you have any idea to make it more interesting, feel free to send a PR, or create an issue for a feature request.
 
 Stay happy and keep the people you care about happy. :)
+
+## Thanks :heart:‍ 
+
+* [Faahim](https://github.com/faahim/happy-birthday)
